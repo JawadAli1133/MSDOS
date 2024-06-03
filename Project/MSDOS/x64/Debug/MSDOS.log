@@ -1,0 +1,81 @@
+﻿  main.cpp
+F:\Semester3\DSA\MSDOS\Folder.h(231,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(198,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(199,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(285,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(409,21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(452,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(456,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(466,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(520,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(567,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(571,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(666,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(671,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(748,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(749,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(822,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(829,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(841,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(905,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(912,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(924,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(1010,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(1056,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(1145,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(1210,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(1319,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+F:\Semester3\DSA\MSDOS\DOS.h(1332,1): warning C4715: 'DOS::getExtension': not all control paths return a value
+  MSDOS.vcxproj -> F:\Semester3\DSA\MSDOS\x64\Debug\MSDOS.exe
